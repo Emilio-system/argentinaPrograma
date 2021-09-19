@@ -1,0 +1,4 @@
+TOTAL-PACK AVENTURA-Moria,Mordor,Bosque Negro-30
+GRATIS-PACK PAISAJE-Minas Tirith,Abismo de Helm-Erebor
+DESCUENTO-PACK DEGUSTACION-La Comarca,Lothlórien-10
+DESCUENTO-PACK DEGUSTACION-La Comarca-10

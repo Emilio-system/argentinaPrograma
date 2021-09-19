@@ -1,0 +1,8 @@
+Visitante: Nombre: Sam; Presupuesto: 30.0; Tiempo: 35.0; Preferencia: DEGUSTACION
+--------------------------------------------------------------  
+Itinerario
+--------------------------------------------------------------  
+Nombre: La Comarca; Costo: 3.0; Cupo diponibre: 149; Tiempo: 6.5; Tipo: DEGUSTACION
+Nombre: Mordor; Costo: 25.0; Cupo diponibre: 2; Tiempo: 3.0; Tipo: AVENTURA
+--------------------------------------------------------------  
+Total a pagar: 28.0 Tiempo: 9.5

@@ -1,0 +1,9 @@
+Visitante: Nombre: Eowyn; Presupuesto: 2.0; Tiempo: 16.5; Preferencia: AVENTURA
+--------------------------------------------------------------  
+Itinerario
+--------------------------------------------------------------  
+Nombre: Moria; Costo: 10.0; Cupo diponibre: 5; Tiempo: 2.0; Tipo: AVENTURA
+Nombre: Bosque Negro; Costo: 3.0; Cupo diponibre: 11; Tiempo: 4.0; Tipo: AVENTURA
+Nombre: Minas Tirith; Costo: 5.0; Cupo diponibre: 24; Tiempo: 2.5; Tipo: PAISAJE
+--------------------------------------------------------------  
+Total a pagar: 18.0 Tiempo: 8.5
